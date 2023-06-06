@@ -8,7 +8,7 @@
 
 ## Решение
 
-Последовательное изложение и обоснование действий содержится в файле [PlayerTracking.html](https://github.com/Fleyderer/VolleyballTracking/blob/main/PlayerTracking.html)
+Последовательное изложение и обоснование действий содержится в ноутбуке [PlayerTracking.ipynb](https://github.com/Fleyderer/VolleyballTracking/blob/main/PlayerTracking.ipynb)
 
 ## Результат
 
